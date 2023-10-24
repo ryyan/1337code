@@ -85,6 +85,8 @@ var numIslands = function (grid) {
   return islands.size;
 };
 
+/* Everything below is for local testing only */
+
 /**
  * @param {number} actual
  * @param {number} expected

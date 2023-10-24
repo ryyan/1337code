@@ -29,6 +29,8 @@ function isValidNode(node, min, max) {
   );
 }
 
+/* Everything below is for local testing only */
+
 class TreeNode {
   constructor(val, left, right) {
     this.val = val === undefined ? 0 : val;
